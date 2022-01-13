@@ -1,11 +1,11 @@
 # Customer-Churn-Prediction---Bank
 
 
-# PROBLEM STATEMENT#
+PROBLEM STATEMENT
 
 Given the attributes of various customers of a bank, we need to build a model that can help predict if a customer's average balance will fall below minimum balance in the upcomimg quarter, based on current activity;
 
-**FEATURES IN DATASET**
+FEATURES IN DATASET
 
 1. **Customer_ID** - ID of customer          
 2. **Vintage** -  vintage of the customer with the bank, in number of days                            
